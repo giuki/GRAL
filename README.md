@@ -54,7 +54,7 @@ Esses dados reforçam a importância do debate sobre como a região que é celei
 * [STEDILE, João Pedro. CARVALHO, Horacio Martins de. Soberania Alimentar: Uma Necessidade dos Povos. Ecodebate, 2011.](https://www.ecodebate.com.br/2011/03/25/soberania-alimentar-uma-necessidade-dos-povos-artigo-de-joao-pedro-stedile-e-horacio-martins-de-carvalho/#:~:text=Soberania%20alimentar%3A%20conceitos%20e%20trajet%C3%B3ria,-Houve%20nas%20%C3%BAltimas&text=Foi%20a%20obra%20de%20Josu%C3%A9,produ%C3%A7%C3%A3o%20e%20distribui%C3%A7%C3%A3o%20dos%20alimentos)
 * VIEIRA, Pedro Abel. CONTINI, Elisio. HENZ, Gilmar Paulo. NOGUEIRA, Virgínia G. de Caudas, editores técnicos. GEOPOLÍTICA DO ALIMENTO: O Brasil como fonte de estratégica de alimentos para a humanidade. Brasília, DF: Embrapa, 2019.
 * VITTE, Claudete de Castro Silva. A terra é novo ouro: Geopolítica dos alimentos, conflitos por terra e principais atores envolvidos na América do Sul. XVII ENANPUR, São Paulo, 2017.
-¿Qué es la CLOC-Via Campesina? CLOC-Via Campesina, 2020.
+* ¿Qué es la CLOC-Via Campesina? CLOC-Via Campesina, 2020.
 
 ## Outros Links
 [![image](https://user-images.githubusercontent.com/106170343/170143726-9495775f-5625-4af6-a092-af1233b5ac9d.png)](https://www.fao.org/cfs/en/)
